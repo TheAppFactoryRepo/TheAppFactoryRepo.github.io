@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Pierwszy post"
+theme: jekyll-theme-cayman
 ---
 
 # Welcome
