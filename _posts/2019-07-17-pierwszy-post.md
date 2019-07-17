@@ -3,9 +3,8 @@ title:  "Pierwszy post"
 theme: jekyll-theme-cayman
 ---
 
-# Pierwszy post2
-
-**Hello world**, this is my first Jekyll blog post.
+<h1>{{ page.title }}</h1>
+<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
 
 I hope you like it!
 
