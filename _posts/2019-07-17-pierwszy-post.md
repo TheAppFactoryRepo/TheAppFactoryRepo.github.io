@@ -3,7 +3,7 @@ title:  "Pierwszy post"
 theme: jekyll-theme-cayman
 ---
 
-# Pierwszy post
+# Pierwszy post2
 
 **Hello world**, this is my first Jekyll blog post.
 
