@@ -4,7 +4,7 @@ title:  "Pierwszy post"
 theme: jekyll-theme-cayman
 ---
 
-# Welcome
+# Pierwszy post
 
 **Hello world**, this is my first Jekyll blog post.
 
