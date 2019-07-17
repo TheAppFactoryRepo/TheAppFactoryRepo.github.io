@@ -1,5 +1,5 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/.vs
+_site
+.bundle
+.sass-cache
+Gemfile.lock
+.DS_Store
