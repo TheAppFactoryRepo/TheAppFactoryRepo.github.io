@@ -4,7 +4,7 @@ theme: jekyll-theme-cayman
 ---
 
 <h1>{{ page.title }}</h1>
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+<p>{{ page.date | date_to_string }}</p>
 
 I hope you like it!
 
