@@ -1,11 +1,8 @@
 
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<h1>TheAppFactory Blog</h1>
+<p>Blog technologiczny</p>
 
-
-
-TO jest test 
-
+Posty :
 <ul>
   {% for post in site.posts %}
     <li>
