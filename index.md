@@ -7,5 +7,3 @@
 TO jest test 
 
 
-https://www.gazeta.pl/0,0.html?p=148
-
