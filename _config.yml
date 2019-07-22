@@ -1,15 +1,15 @@
 # Setup
 title:        TheAppFatory Blog
 description:  Blog technologiczny
-tagline:      A responsive theme for your project on GitHub Pages
+tagline:      Blog technologiczny
 baseurl:      ""
 paginate:     1
-locale:       "en"
+locale:       "pl"
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       Mateusz Mytych
+  url:        https://theappfactoryrepo.github.io 
 
 # Gems
 gems:
